@@ -18,9 +18,9 @@ Open up the `fun-with-altair.ipynb` file. That's your working file; it's got all
 
 
 #### Other resources
-- Link to this repo: bit.ly/nicar2019-altair-code
-- Link to the session slides: bit.ly/nicar2019-altair-slides
-- [Altair documentation]()
-- [Altair tutorial]()
-- [More about Vega and Altair]()
-- [Use Altair/Vega code with Flourish]()
+- Link to this repo: [bit.ly/nicar2019-altair-code](http://bit.ly/nicar2019-altair-code)
+- Link to the session slides: [bit.ly/nicar2019-altair-slides](http://bit.ly/nicar2019-altair-slides)
+- Check out the [Altair documentation](https://altair-viz.github.io/)
+- For more about the technology underneath Altair, here's the [Vega-Lite documentation](https://vega.github.io/vega-lite/docs/)
+- If you're ready to dive into more complex uses of Altair, this [PyCon Altair Tutorial](https://github.com/altair-viz/altair-tutorial/blob/master/notebooks/Index.ipynb) is a good place to start
+- Here's how you can [use Altair/Vega code with Flourish](https://flourish.studio/2018/05/29/vega-lite-in-flourish/) for a quick, embeddable interactive
