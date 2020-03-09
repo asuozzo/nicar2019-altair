@@ -1,5 +1,5 @@
 # Data Visualization With Altair
-### Code and resources from the NICAR 2019 session
+*Code and resources originally from a NICAR 2019 session; last updated March 2020.*
 
 #### How to install
 Fork or clone this repo to your computer. Make sure you have Python 3 and [Pipenv](LINK) installed on your computer.
