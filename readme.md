@@ -8,7 +8,7 @@ Open this folder in your terminal and run `pipenv install`. This may take a few 
 
 Once that's done, run `pipenv shell` and then `jupyter lab`. This should open up in your browser.
 
-*(Note: You should also be able to run this in a standard `jupyter notebook`, but I haven't tested it there.)*
+*(Note: You should also be able to run this with the `jupyter notebook` command; `jupyter lab` is the next generation of Jupyter, though, and gives you some additional options, like a file-management interface and the ability to have multiple files open in different panes at the same time.)*
 
 #### Exploring the data
 The project data is in the `data` directory. You can open the files right inside Jupyter Lab and check out how they're structured, or load them into your notebook with Pandas; the data definitions and sources are listed in that directory's readme.
