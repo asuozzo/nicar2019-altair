@@ -18,6 +18,3 @@
 #### internetrural-vt-county-2017.csv
 - Percent of households without internet access for counties in Vermont - *ACS 2017 5-year estimates*
 - Percent of population living in rural areas - *U.S. Census Bureau 2010*
-
-#### us-10m.json
-- Outlines of all 50 states - *Vega Datasets*
